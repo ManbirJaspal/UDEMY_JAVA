@@ -42,7 +42,7 @@ public class ArrayChallenge {
 //           sortedArray[i] = array[i];
 //       }
 
-       int[] sortedArray = Arrays.copyOf(array,array.length); // using the Arrays class with copyof method to copy contents of one array into another.
+       int[] sortedArray = Arrays.copyOf(array,array.length); // using the ArraysandLists class with copyof method to copy contents of one array into another.
 
        int temp;
        boolean flag=true;
